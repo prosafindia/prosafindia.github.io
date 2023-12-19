@@ -752,7 +752,7 @@ h5{
 }
 
 p {
-  animation: 3s slide-right;
+  animation: 2s slide-right;
 }
 @keyframes slide-right {
   from {
