@@ -775,7 +775,7 @@ p {
   position: relative;
   overflow: hidden;
   padding-bottom: 56.25%; /* 16:9 aspect ratio */
-  height: 0;
+  height: 500px;
 }
 
 .google-form-container iframe {
