@@ -673,8 +673,7 @@ header {
   }
 
   .carousel-caption .text-start {
-    text-align: center ;
-    color: cornflowerblue;
+    text-align: center !important;
   }
 }
 .carousel-control-prev-icon {
@@ -699,7 +698,8 @@ header {
 }
 
 .w-125 {
-  width: 90px;
+  width: 150px;
+  padding-bottom: 30px;
 }
 
 .fs-12 {
