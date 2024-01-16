@@ -211,7 +211,7 @@ body {
 .section-title h2 {
   width: 100%;
   text-align: center;
-  font-weight: 600;
+  font-weight: 1000;
   margin-bottom: 0px;
 }
 .section-title p {
@@ -435,7 +435,7 @@ body {
 }
 
 .fw-bold {
-  font-weight: 500 !important;
+  font-weight: 1000 !important;
 }
 
 .fs-11 {
@@ -448,6 +448,9 @@ body {
 
 .shadow-xs {
   box-shadow: 0 8px 6px -6px rgba(0, 0, 0, 0.13);
+}
+.fw-bolder{
+  font-weight: 1000;
 }
 
 .truncate-2 {
@@ -712,6 +715,7 @@ header {
 
 .mah-150 {
   max-height: 240px;
+  padding-bottom: 30px;
 }
 
 h5{
