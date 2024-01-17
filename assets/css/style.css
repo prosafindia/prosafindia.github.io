@@ -150,7 +150,9 @@ p {
 .no-margin {
   margin: 0px;
 }
-
+.newfont{
+  font-size: 10px;
+}
 .hid {
   display: none;
 }
