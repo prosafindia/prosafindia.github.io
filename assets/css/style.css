@@ -920,9 +920,39 @@ p {
   transform: translateY(0px);
 }
 
+.productoff{
+  
+    animation: 8s slide-up;
+  
+  
+  
+}
+@keyframes slide-up {
+  from {
+    margin-left: -100%;
+  }
+  to {
+    margin-left: 0%;
+  }
+}
 
 
+.slide-right{
+  width: 100%;
+}
 
+/***** Slide Right *****/
+.slide-right {
+  animation: 5s slide-right;
+}
+@keyframes slide-right {
+  from {
+    margin-left: -100%;
+  }
+  to {
+    margin-left: 0%;
+  }
+}
 
 /* Media query for smaller screens */
 @media (max-width: 500px) {
