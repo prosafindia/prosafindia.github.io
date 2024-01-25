@@ -844,10 +844,10 @@ p {
   margin-top: 45px;
 }
 .containernew:hover .boxnew {
-  transform: rotateY(25deg);
+  transform: rotateY(0deg);
 }
 .containernew .boxnew:hover ~ .box {
-  transform: rotateY(-25deg);
+  transform: rotateY(0deg);
 }
 .containernew .boxnew:hover {
   transform: rotateY(0deg) scale(1.25);
