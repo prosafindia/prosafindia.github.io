@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;700;900&display=swap");
-.bg-primary {
+.peg-primary {
   background-color: #1690f0 !important;
 }
 
@@ -62,6 +62,7 @@ li{
   white-space: nowrap; /* Keeps the content on a single line */
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
   letter-spacing: .15em; /* Adjust as needed */
+  padding-bottom: 30px;
   animation: 
     typing 3.5s steps(30, end),
     blink-caret .5s step-end infinite;
